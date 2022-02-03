@@ -2,4 +2,4 @@
 
 
 
-SRC-IP-CIDR,35.201.136.198,no-resolve
+IP-CIDR,http://35.201.136.0/24,no-resolve
