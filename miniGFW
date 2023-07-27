@@ -20,5 +20,4 @@ custom_proxy_group=漏网之鱼`select`[]DIRECT`[]负载均衡
 custom_proxy_group=广告拦截`select`[]REJECT`[]DIRECT
 
 
-enable_rule_generator=true
 overwrite_original_rules=true
