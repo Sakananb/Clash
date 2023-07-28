@@ -19,5 +19,4 @@ custom_proxy_group=全球直连`select`[]DIRECT`[]负载均衡
 custom_proxy_group=漏网之鱼`select`[]DIRECT`[]负载均衡
 custom_proxy_group=广告拦截`select`[]REJECT`[]DIRECT
 
-
 overwrite_original_rules=true
