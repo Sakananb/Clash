@@ -1,4 +1,4 @@
 #Sakana自用代理规则
 
-
-DOMAIN-SUFFIX,naiko.cloud
+#个人域名需要代理部分
+DOMAIN-SUFFIX,gcp.xianyui.cn
