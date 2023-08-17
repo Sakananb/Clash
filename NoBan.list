@@ -9,3 +9,5 @@ DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
 #矿神群晖套件
 DOMAIN-SUFFIX,imnks.com
+#个人域名无需代理部分
+DOMAIN-SUFFIX,zf.xianyui.net
