@@ -2,3 +2,5 @@
 
 #个人域名需要代理部分
 DOMAIN-SUFFIX,gcp.xianyui.cn
+#蜜柑计划主域名
+DOMAIN-SUFFIX,mikanani.me
