@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,xfltd.org
 #社区
 DOMAIN-SUFFIX,hostevaluate.com
 DOMAIN-SUFFIX,nodeseek.com
+#国外IP查询（提升精确度）
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipinfo.io
