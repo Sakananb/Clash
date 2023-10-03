@@ -12,3 +12,5 @@ DOMAIN-SUFFIX,nodeseek.com
 #国外IP查询（提升精确度）
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipinfo.io
+#R星
+DOMAIN-SUFFIX,rockstargames.com
