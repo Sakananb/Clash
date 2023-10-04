@@ -2,8 +2,9 @@
 
 #个人域名需要代理部分
 DOMAIN-SUFFIX,gcp.xianyui.cn
-#蜜柑计划主域名
+#番组相关域名
 DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,bangumi.moe
 #机场
 DOMAIN-SUFFIX,xfltd.org
 #社区
