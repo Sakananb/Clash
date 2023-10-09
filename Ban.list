@@ -15,6 +15,5 @@ DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipinfo.io
 #R星
 DOMAIN-SUFFIX,rockstargames.com
-#Ultra Mobile/WifiCalling
+#Ultra Mobile
 DOMAIN-SUFFIX,ultramobile.com
-DOMAIN-SUFFIX,pub.3gppnetwork.org
