@@ -19,3 +19,5 @@ DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,ultramobile.com
 #拷贝漫画
 DOMAIN-SUFFIX,mangacopy.com
+#teamspeak
+DOMAIN-SUFFIX,tmspk.net
