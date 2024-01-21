@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,zf.xianyui.net
 DOMAIN-KEYWORD,aliyundrive
 #云监工
 DOMAIN-SUFFIX,zqbzs.cc
+#防止微信图片被广告屏蔽
+DOMAIN-SUFFIX,wxs.qq.com
