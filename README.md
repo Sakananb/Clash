@@ -1,2 +1,2 @@
-# Clashrule
-咸鱼自用Clash规则内容
+# ClashRuleset
+自用规则内容
