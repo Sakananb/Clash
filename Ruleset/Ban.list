@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,mangacopy.com
 #teamspeak
 DOMAIN-SUFFIX,tmspk.net
+#推特图片API
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,missav.com
