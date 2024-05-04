@@ -23,5 +23,7 @@ DOMAIN-SUFFIX,mangacopy.com
 DOMAIN-SUFFIX,tmspk.net
 #推特图片API
 DOMAIN-SUFFIX,twimg.com
+#FACEIT电竞平台
+DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,hanime1.me
